@@ -5,3 +5,4 @@
 *.png filter=lfs diff=lfs merge=lfs -text
 Content/Megascans/** filter=lfs diff=lfs merge=lfs -text
 Content/Saien/Fish/** filter=lfs diff=lfs merge=lfs -text
+Content/CHERRY_TREE/** filter=lfs diff=lfs merge=lfs -text
